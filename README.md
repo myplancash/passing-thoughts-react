@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Passing Thoughts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### What if you could post something and know it wouldn’t live forever? In this project, we’ll build a place for our passing thoughts. Once you add a short thought, it’ll disappear after just 15 seconds.
+
+![Screenshot 2023-10-30 at 5 53 16 PM](https://github.com/myplancash/passing-thoughts-react/assets/64751892/717384ec-fba6-466c-b5c1-29bc7dd55de5)
 
 ## Available Scripts
 
